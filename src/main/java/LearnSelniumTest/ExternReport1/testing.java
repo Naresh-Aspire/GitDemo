@@ -7,4 +7,7 @@ public class testing {
 		System.out.println( "web automation" );
 	}
 
+  public void maintest() {
+	  System.out.println( "Mobile Test" );  
+  }
 }
