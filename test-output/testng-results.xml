@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-20T06:16:04Z" name="Default suite" finished-at="2024-05-20T06:16:24Z" duration-ms="19517">
+    <groups>
+    </groups>
+    <test started-at="2024-05-20T06:16:04Z" name="Default test" finished-at="2024-05-20T06:16:24Z" duration-ms="19517">
+      <class name="LearnSelniumTest.ExternReport1.externReporttClass">
+        <test-method is-config="true" signature="externreportConfig()[pri:0, instance:LearnSelniumTest.ExternReport1.externReporttClass@65b104b9]" started-at="2024-05-20T06:16:04Z" name="externreportConfig" finished-at="2024-05-20T06:16:05Z" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- externreportConfig -->
+        <test-method signature="externreport()[pri:0, instance:LearnSelniumTest.ExternReport1.externReporttClass@65b104b9]" started-at="2024-05-20T06:16:05Z" name="externreport" finished-at="2024-05-20T06:16:24Z" duration-ms="19079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- externreport -->
+      </class> <!-- LearnSelniumTest.ExternReport1.externReporttClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
