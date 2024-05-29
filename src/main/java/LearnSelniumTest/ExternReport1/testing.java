@@ -7,7 +7,15 @@ public class testing {
 		System.out.println( "web automation" );
 	}
 
-  public void maintest() {
+  public void maint1es1t() {
 	  System.out.println( "Mobile Test" );  
+  }
+	  
+	  public void mainte1s1t() {
+		  System.out.println( "Mobile Test" );  
+	  }
+		  
+		  public void maintes11t() {
+			  System.out.println( "Mobile Test" );  
   }
 }
